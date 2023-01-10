@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df4adf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Bruno+Guitton;I+from+Brasília,+DF;I+study+systems+development+at+IESB/Alura;+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="Css3" width="40" height="40"/>&nbsp;
