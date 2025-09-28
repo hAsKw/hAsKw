@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df4adf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Bruno+Guitton;I+'m+a+Backend+Developer;+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<div>
 
   <!-- Linux -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
